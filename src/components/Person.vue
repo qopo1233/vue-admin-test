@@ -3,9 +3,5 @@
   <el-button type="primary">点击</el-button>
 </template>
 
-<script setup lang="ts" name="person">
-
-</script>
-<style scoped>
-
-</style>
+<script setup lang="ts" name="person"></script>
+<style scoped></style>
